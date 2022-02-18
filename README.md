@@ -1,4 +1,4 @@
-# Ruby code kata template
+# Scala code kata template
 
 ## Prerequisites
 
